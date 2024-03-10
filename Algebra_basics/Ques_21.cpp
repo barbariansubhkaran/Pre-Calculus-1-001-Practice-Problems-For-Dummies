@@ -1,8 +1,5 @@
-#include <iostream>
-#include <math.h>
-#include <cmath>
+#include "headers.h"
 
-using namespace std;
 
 int main()
 {
